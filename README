@@ -1,0 +1,9 @@
+cv2qt v1.0
+Alberto Barradas
+Simple C++ library including functions useful to convert image matrix array from OpenCV's MAT type, to Qt's QImage.
+Requires version v2.4.5 of openCV, and QT v4.5
+Library can just be added to working directory and included in project.
+FILES:
+cv2qt.cpp
+cv2qt.h
+Currently runs only with RGB matrix arrays.
